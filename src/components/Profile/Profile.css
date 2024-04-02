@@ -1,0 +1,9 @@
+img {
+  display: block;
+  max-width: 100px;
+  height: auto;
+}
+.name {
+  font-size: large;
+  font-weight: bold;
+}
