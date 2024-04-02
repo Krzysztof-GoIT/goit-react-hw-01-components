@@ -99,7 +99,7 @@
     "id": "c6e5784b-0ca3-48d6-86e5-b5128af5a523",
     "type": "invoice",
     "amount": "116.11",
-    "currency": "CUP CUC"
+    "currency": "CUP"
   },
   {
     "id": "c9ebed6a-3a02-4b49-ac0d-0534b51f2bfd",
@@ -111,7 +111,7 @@
     "id": "a4a98b0e-b22c-438b-9f83-de2df52110c8",
     "type": "invoice",
     "amount": "725.03",
-    "currency": "UYU UYI"
+    "currency": "UYU"
   },
   {
     "id": "b39bfa7a-0166-4c47-94d6-87d20590f746",
